@@ -26,11 +26,11 @@
 
 # API's USED:
 
-1.Google Cloud Natural Language.
+1. Google Cloud Natural Language.
 
-2.Google cloud Translate.
+2. Google cloud Translate.
 
-3.Twitter API's
+3. Twitter API's
 
 The code and respective files are added in the repository.
 
