@@ -2,11 +2,11 @@
 
 # USER STORIES!!!!
 
-1.I Want to be safe.
+1. I Want to be safe.
 
-2.I want to know how the a person reacts to different situation.
+2. I want to know how the a person reacts to different situation.
 
-3.I like to see if a person is genuine. 
+3. I like to see if a person is genuine. 
 
 # MVP[Minimum Viable Product]:
 
